@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-venkatcharan&label=Profile%20views&color=0e75b6&style=flat" alt="m-venkatcharan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-venkatcharan" alt="m-venkatcharan" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development,Data Analytics.**
 
