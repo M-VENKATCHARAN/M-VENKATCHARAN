@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MADDINALA VENKAT CHARAN</h1>
-<h3 align="center">I'm a passionate Web Developer, Data Analyst, Software Developer, and AI/ML enthusiast currently in my 3rd year of B.Tech at PES University — building creative solutions at the intersection of code, data, and intelligence.</h3>
+<h3 align="center">I'm a passionate Web Developer, Data Analyst, Software Developer, and AI/ML enthusiast currently in my Final year of B.Tech at PES University — building creative solutions at the intersection of code, data, and intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-venkatcharan&label=Profile%20views&color=0e75b6&style=flat" alt="m-venkatcharan" /> </p>
 
